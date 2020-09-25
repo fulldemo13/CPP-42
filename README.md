@@ -8,3 +8,6 @@ This project is a C++ "piscine", divided into nine parts.
 
 ### Module00
 First shot with the C++ syntax.
+
+### Module01
+Memory allocation, References, Pointers to members, File streams.
