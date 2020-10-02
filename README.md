@@ -13,4 +13,7 @@ First shot with the C++ syntax.
 Memory allocation, References, Pointers to members, File streams.
 
 ### Module02
-Polymorphism, operators overload and canonical classes
+Polymorphism, operators overload and canonical classes.
+
+### Module03
+Inheritance.
