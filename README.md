@@ -11,3 +11,6 @@ First shot with the C++ syntax.
 
 ### Module01
 Memory allocation, References, Pointers to members, File streams.
+
+### Module02
+Polymorphism, operators overload and canonical classes
