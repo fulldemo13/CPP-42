@@ -23,3 +23,6 @@ Subtype polymorphism, abstract classes, interfaces.
 
 ### Module05
 Repetition and Exceptions
+
+### Module06
+Any cast situation is solved by a specific cast.
