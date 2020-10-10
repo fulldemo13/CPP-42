@@ -26,3 +26,6 @@ Repetition and Exceptions
 
 ### Module06
 Any cast situation is solved by a specific cast.
+
+### Module07
+Templates.
