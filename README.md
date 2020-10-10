@@ -29,3 +29,6 @@ Any cast situation is solved by a specific cast.
 
 ### Module07
 Templates.
+
+### Module08
+Templated containers, iterators and algorithms.
