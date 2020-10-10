@@ -20,3 +20,6 @@ Inheritance.
 
 ### Module04
 Subtype polymorphism, abstract classes, interfaces.
+
+### Module05
+Repetition and Exceptions
